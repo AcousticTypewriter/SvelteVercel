@@ -3,7 +3,7 @@
 <style>
 	*{
 		box-sizing: inherit;
-		font-family: "Ubuntu Mono"
+		font-family: "Ubuntu Mono";
 	}
 	
 </style>
