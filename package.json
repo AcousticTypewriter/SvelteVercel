@@ -13,5 +13,9 @@
 		"svelte": "^3.54.0",
 		"vite": "^4.2.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@fontsource/ubuntu-mono": "^4.5.11",
+		"@xata.io/cli": "^0.12.0"
+	}
 }
