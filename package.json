@@ -15,7 +15,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource/ubuntu-mono": "^4.5.11",
 		"@xata.io/cli": "^0.12.0"
 	}
 }
